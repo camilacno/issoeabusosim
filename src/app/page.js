@@ -1,5 +1,5 @@
-import Building from '/c/users/dev/Desktop/issoeabusosim/src/components/Building.jsx'
+import { InProgress } from '../components/InProgress.jsx'
 
 export default function Home() {
-  return <Building />
+  return <InProgress />
 }
