@@ -1,7 +1,7 @@
 import { Box, Container } from '@chakra-ui/react'
 import Image from 'next/image'
 
-export default function Building() {
+export function InProgress() {
   return (
     <Box className="w-screen h-screen flex flex-col justify-center items-center bg-[#FAFAFA]">
       <Container className="flex flex-col justify-center items-center gap-5">
