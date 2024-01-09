@@ -3,8 +3,8 @@ import Link from 'next/link'
 
 export function Header() {
   return (
-    <header className=" flex  justify-center items-center  ">
-      <div className="container w-[1216px] mx-auto flex items-center justify-between p-1.5">
+    <header className=" flex  justify-center items-center   ">
+      <div className="container w-4/5 mx-auto flex items-center justify-between p-1.5 sm:w-screen">
         <div className="flex  items-center ">
           <Image src="/logo.jpg" width={50} height={50} />
         </div>
