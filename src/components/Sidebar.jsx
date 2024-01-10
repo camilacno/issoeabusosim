@@ -17,7 +17,7 @@ const Sidebar = () => {
       {display && (
         <Stack
           spacing="3"
-          className=" w-[20vw] bg-[#F4F4F4] h-screen sm:w-screen  pl-5 pt-1   "
+          className=" w-[20vw] bg-[#F4F4F4] h-screen pl-3 pt-1 pb-4 sm:w-screen"
         >
           <Section title="A violência contra a mulher no Brasil">
             <LinkItem
@@ -40,8 +40,30 @@ const Sidebar = () => {
             <LinkItem href="/violencia-psicologica">
               Violência psicológica
             </LinkItem>
-            {/* Adicione os demais itens aqui */}
+            <LinkItem href="/violencia-psicologica">Violência moral</LinkItem>
+            <LinkItem href="/violencia-psicologica">
+              Violência patrimonial
+            </LinkItem>
+            <LinkItem href="/violencia-psicologica">Violência sexual</LinkItem>
+            <LinkItem href="/violencia-psicologica">Violência física</LinkItem>
           </Section>
+          <Section title="Como se fortalecer">
+            <LinkItem href="/violencia-psicologica">
+              Vozes de especialistas
+            </LinkItem>
+            <LinkItem href="/violencia-psicologica">Redes sociais</LinkItem>
+            <LinkItem href="/violencia-psicologica">Podcasts</LinkItem>
+          </Section>
+          <Section title="A importância da rede de apoio"></Section>
+          <Section title="A Como pedir ajuda">
+            <LinkItem href="/violencia-psicologica">
+              Não tenho nenhum dinheiro, o que posso fazer?
+            </LinkItem>
+            <LinkItem href="/violencia-psicologica">
+              Somente eu posso pedir ajuda?
+            </LinkItem>
+          </Section>
+          <Section title="Conseguiu se libertar? Dê força a outras mulheres "></Section>
         </Stack>
       )}
     </Box>
