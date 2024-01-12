@@ -12,9 +12,11 @@ export function Header() {
         <div className="flex gap-6 items-center justify-center">
           <ul className="flex gap-6 text-lg">
             <li>
-              <Link href={'/about'}>Rede de apoio</Link>
+              <Link href={'/rede-apoio'}>Rede de apoio</Link>
             </li>
-            <li>Como pedir ajuda</li>
+            <li>
+              <Link href={'/pedir-ajuda'}>Como pedir ajuda</Link>
+            </li>
           </ul>
         </div>
       </div>

@@ -40,26 +40,26 @@ const Sidebar = () => {
             <LinkItem href="/violencia-psicologica">
               Violência psicológica
             </LinkItem>
-            <LinkItem href="/violencia-psicologica">Violência moral</LinkItem>
-            <LinkItem href="/violencia-psicologica">
+            <LinkItem href="/violencia-moral">Violência moral</LinkItem>
+            <LinkItem href="/violencia-patrimonial">
               Violência patrimonial
             </LinkItem>
-            <LinkItem href="/violencia-psicologica">Violência sexual</LinkItem>
-            <LinkItem href="/violencia-psicologica">Violência física</LinkItem>
+            <LinkItem href="/violencia-sexual">Violência sexual</LinkItem>
+            <LinkItem href="/violencia-fisica">Violência física</LinkItem>
           </Section>
           <Section title="Como se fortalecer">
-            <LinkItem href="/violencia-psicologica">
+            <LinkItem href="/vozes-especialistas">
               Vozes de especialistas
             </LinkItem>
-            <LinkItem href="/violencia-psicologica">Redes sociais</LinkItem>
-            <LinkItem href="/violencia-psicologica">Podcasts</LinkItem>
+            <LinkItem href="/redes-sociais">Redes sociais</LinkItem>
+            <LinkItem href="/podcasts">Podcasts</LinkItem>
           </Section>
           <Section title="A importância da rede de apoio"></Section>
           <Section title="A Como pedir ajuda">
-            <LinkItem href="/violencia-psicologica">
+            <LinkItem href="/sem-dinheiro-oque-fazer">
               Não tenho nenhum dinheiro, o que posso fazer?
             </LinkItem>
-            <LinkItem href="/violencia-psicologica">
+            <LinkItem href="/pedir-ajuda">
               Somente eu posso pedir ajuda?
             </LinkItem>
           </Section>
