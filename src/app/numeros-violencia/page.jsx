@@ -75,7 +75,7 @@ export default function NumerosViolencia() {
         </h2>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O site do Senado Federal do Brasil destaca uma pesquisa do
               DataSenado revelando que três em cada dez mulheres brasileiras já
               sofreram violência doméstica
@@ -98,7 +98,7 @@ export default function NumerosViolencia() {
         </section>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O "15° Anuário Brasileiro de Segurança Pública (FBSP, 2021)" é uma
               pesquisa anual realizada pelo Fórum Brasileiro de Segurança
               Pública que compila dados de segurança pública no Brasil.
@@ -122,7 +122,7 @@ export default function NumerosViolencia() {
         </section>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O artigo da Agência Brasil destaca que, no Brasil, uma mulher é
               vítima de violência a cada quatro horas ,
             </span>
@@ -144,7 +144,7 @@ export default function NumerosViolencia() {
         </section>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O artigo no Poder360 revela que o Brasil registra, em média, 245
               casos de violência contra a mulher por dia, segundo dados do
               serviço Ligue 180.
@@ -166,7 +166,7 @@ export default function NumerosViolencia() {
         </section>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               A pesquisa da Universidade Federal de Minas Gerais (UFMG) revela
               um alto índice de subnotificação de violência contra mulheres no
               Brasil.
@@ -188,9 +188,9 @@ export default function NumerosViolencia() {
             .
           </p>
         </section>
-        <section className="">
+        <section>
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O artigo no Consultor Jurídico reporta um aumento de 40% nos
               registros de feminicídios e violência doméstica contra mulheres em
               tribunais estaduais brasileiros.
@@ -210,8 +210,8 @@ export default function NumerosViolencia() {
           </p>
         </section>
         <section className="">
-          <p className="text-base font-normal">
-            <span className="font-bold">
+          <p className="text-base font-normal ">
+            <span className="font-bold pr-1">
               O artigo na Veja reporta um aumento significativo na violência
               contra mulheres no Brasil em 2022, conforme dados do Anuário
               Brasileiro de Segurança Pública.
@@ -233,7 +233,7 @@ export default function NumerosViolencia() {
         </section>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O artigo no Terra aborda a violência contra a mulher no Brasil,
               destacando as estatísticas e os diferentes tipos de violência
               previstos na Lei Maria da Penha.
@@ -254,7 +254,7 @@ export default function NumerosViolencia() {
         </section>
         <section className="">
           <p className="text-base font-normal">
-            <span className="font-bold">
+            <span className="font-bold pr-1">
               O artigo no Meio & Mensagem discute o aumento da violência contra
               mulheres no Brasil em 2022.
             </span>
