@@ -7,11 +7,11 @@ const Sidebar = () => {
   const [display, setDisplay] = useState(false)
 
   return (
-    <Box className="pl-5 mt-5">
+    <Box className="pl-5 mt-5 pr-5 ">
       <IconButton
-        className=""
+        className="w-[50px] h-[50px]"
         aria-label="Open Menu"
-        icon={display ? <CloseIcon /> : <HamburgerIcon />}
+        icon={display ? <CloseIcon /> : <HamburgerIcon className="w-[100px]" />}
         onClick={() => setDisplay(!display)}
       />
       {display && (
