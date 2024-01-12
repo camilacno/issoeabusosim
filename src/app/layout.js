@@ -5,8 +5,8 @@ import './globals.css'
 import { ChakraProvider } from '@chakra-ui/react'
 import { CacheProvider } from '@chakra-ui/next-js'
 import { Grid, GridItem } from '@chakra-ui/react'
-import { Header } from '/c/users/dev/Desktop/issoeabusosim/src/components/Header.jsx'
-import Sidebar from '/c/users/dev/Desktop/issoeabusosim/src/components/Sidebar.jsx'
+import { Header } from '../components/Header.jsx'
+import Sidebar from '../components/Sidebar.jsx'
 
 const titles = Nunito({ subsets: ['latin'] })
 

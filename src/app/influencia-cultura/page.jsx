@@ -33,7 +33,7 @@ export default function InfluenciaCultura() {
               Normalização da Violência:
             </span>
             Em alguns contextos, a violência contra as mulheres é vista como uma
-            parte "normal" das relações. Comentários depreciativos, controle
+            parte normal das relações. Comentários depreciativos, controle
             excessivo e até mesmo abuso físico são muitas vezes minimizados ou
             aceitos como parte do relacionamento.
           </ListItem>
@@ -42,8 +42,8 @@ export default function InfluenciaCultura() {
               Culpa da Vítima:
             </span>
             Existe uma tendência em muitas sociedades de culpar a vítima em
-            casos de violência sexual ou doméstica. Perguntas como "O que ela
-            estava vestindo?" ou "Por que ela não deixou o parceiro?" colocam a
+            casos de violência sexual ou doméstica. Perguntas como O que ela
+            estava vestindo? ou Por que ela não deixou o parceiro? colocam a
             responsabilidade na vítima, em vez de condenar o agressor.
           </ListItem>
           <ListItem>

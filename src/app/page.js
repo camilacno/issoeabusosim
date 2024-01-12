@@ -1,6 +1,6 @@
 import { Accordion, Box } from '@chakra-ui/react'
 
-import { AccordionSection } from '/c/users/dev/Desktop/issoeabusosim/src/components/AccordionSection.jsx'
+import { AccordionSection } from '../components/AccordionSection.jsx'
 
 export default function Home() {
   return (
@@ -203,5 +203,4 @@ Portanto, essa conduta é abusiva e pode estar sujeita a penalidades legais de a
       </Accordion>
     </Box>
   )
-
 }

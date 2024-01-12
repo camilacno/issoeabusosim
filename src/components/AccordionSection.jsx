@@ -23,6 +23,7 @@ export function AccordionSection({ question, answer }) {
           src="/logo.jpg"
           width={80}
           height={80}
+          alt="Logo"
           className=" float-left mr-3"
         />
         {answer}

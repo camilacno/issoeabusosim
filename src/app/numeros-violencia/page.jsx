@@ -99,7 +99,7 @@ export default function NumerosViolencia() {
         <section className="">
           <p className="text-base font-normal">
             <span className="font-bold pr-1">
-              O "15° Anuário Brasileiro de Segurança Pública (FBSP, 2021)" é uma
+              O 15° Anuário Brasileiro de Segurança Pública (FBSP, 2021) é uma
               pesquisa anual realizada pelo Fórum Brasileiro de Segurança
               Pública que compila dados de segurança pública no Brasil.
             </span>
